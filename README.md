@@ -36,5 +36,5 @@ This project is a lightweight, interactive Streamlit-based web application that 
 
 1. **Clone the repo**
 
-
+https://github.com/jaya9850/EDA-for-data.git
 
